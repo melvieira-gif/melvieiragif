@@ -15,6 +15,7 @@
 * Edições de vídeos, social mídia e utiilização de recursos audiovisuais para se obter contéudos interresantes.
 * Cursos já feitos na escola técina Senai Paschoal: Fundamentos de Python 1, Competência Transversal, Excel Básico, Por dentro da Segurança Cibernética, Desvendando a Descarbonização e ética na inteligência artificial. 
 * Cursos da SEBRAE: "Ensino médio/essa metamorfose Ambulante", "Fui lá e fiz", "Criativos: O que são? Onde vivem? Do que se alimentam?", "Fala aí", "Meu Sucesso" e "Cheio de atitude".
+
 ![imagem não disponível](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoxVvA_WYaGzkr0lSi9LTBDwjU-cCgjIHtw&s)
 
 ## 👤 *Habilidades*
